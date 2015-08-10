@@ -1,6 +1,6 @@
 kepala
 <br>
-pundak
+kaki
 <br>
 lutut
 <br>
